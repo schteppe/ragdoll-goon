@@ -1,0 +1,2476 @@
+{
+  "c6681132231a4d4a8144c31c3faec1c0.skeleton": {
+    "name": "Skeleton",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:11.854510+00:00",
+    "deleted": false,
+    "joints": {
+      "020042e1c8aa4512b0337f1042bd0bd2": {
+        "index": 5,
+        "parentIndex": 4,
+        "name": "jDrv_r_ball01",
+        "inverseBindPose": [
+          3.946067431148809E-10,
+          -1.1123027954425213E-9,
+          99.99999999999999,
+          0,
+          -1.2555716716990552E-12,
+          99.99999999999994,
+          1.1123164238638391E-9,
+          0,
+          -100,
+          -1.2623564990882675E-12,
+          3.94598936859211E-10,
+          0,
+          -0.2418669936700681,
+          -0.01805750700606938,
+          21.272599995222564,
+          1
+        ]
+      },
+      "e44c1cf3292b4bb9bb9cfe924871be05": {
+        "index": 18,
+        "parentIndex": 17,
+        "name": "bn_l_shldEnd01",
+        "inverseBindPose": [
+          0.998225801316448,
+          0.004879168334584723,
+          -0.059341750079500856,
+          0,
+          0.004879168334585682,
+          0.9865819516957599,
+          0.1631938917501138,
+          0,
+          0.05934175007950078,
+          -0.16319389175011392,
+          0.9848077530122076,
+          0,
+          -25.892700433346878,
+          -102.289219459092,
+          -9.29771076802047,
+          1
+        ]
+      },
+      "385d4f6d3750455695cbec03b300d2b1": {
+        "index": 10,
+        "parentIndex": 9,
+        "name": "bn_l_ankle01",
+        "inverseBindPose": [
+          -0.006863362956646352,
+          -0.004386510382363226,
+          -0.999966825837533,
+          0,
+          -0.5993669815271028,
+          0.8004741460930141,
+          0.0006024049700800572,
+          0,
+          0.8004449485779856,
+          0.5993512325534367,
+          -0.008123074089362263,
+          0,
+          6.517233412617295,
+          0.22363541530072384,
+          21.227639037308222,
+          1
+        ]
+      },
+      "324bd654144942d6b63124738ef3753d": {
+        "index": 29,
+        "parentIndex": 28,
+        "name": "bn_headEnd01",
+        "inverseBindPose": [
+          1.0000000000000002,
+          -1.3583506073472686E-16,
+          4.36271228133141E-17,
+          0,
+          1.3583506073472684E-16,
+          1,
+          -2.4980018054066037E-16,
+          0,
+          -4.362712281331405E-17,
+          2.4980018054066037E-16,
+          1,
+          0,
+          -2.556455386891713E-14,
+          -151.23697630313143,
+          -0.18238106759112635,
+          1
+        ]
+      },
+      "195625c4d22a482c872b47eed755fc7b": {
+        "index": 12,
+        "parentIndex": 11,
+        "name": "bn_l_ball01",
+        "inverseBindPose": [
+          -0.008119109816571435,
+          0.0006536667313638486,
+          -0.999966825837533,
+          0,
+          0.006314558607013857,
+          0.9999798815265487,
+          0.0006024049700939572,
+          0,
+          0.9999471018035825,
+          -0.00630945813471448,
+          -0.008123074089360796,
+          0,
+          0.41445464225383943,
+          -0.03348844185419542,
+          21.269964665846036,
+          1
+        ]
+      },
+      "4ad204166cd44d71bb07297608b20dc2": {
+        "index": 13,
+        "parentIndex": -32768,
+        "name": "bn_spB01",
+        "inverseBindPose": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -46.60799140271599,
+          3.595634788537942,
+          1
+        ]
+      },
+      "0c529ee61d3240dfa242ee9de38d5d0f": {
+        "index": 26,
+        "parentIndex": 25,
+        "name": "bn_r_elwbo01",
+        "inverseBindPose": [
+          0.7966985789648321,
+          0.5839071461787492,
+          -0.15596095317997563,
+          0,
+          0.48711791093241,
+          -0.7731288579190887,
+          -0.4061870380767595,
+          0,
+          -0.3577534278302067,
+          0.247637262329631,
+          -0.900382291685939,
+          0,
+          -5.577094611597638,
+          92.14269800827952,
+          16.025126141054276,
+          1
+        ]
+      },
+      "9b37c4af7b9b4d54a5f252e671fef08c": {
+        "index": 9,
+        "parentIndex": 8,
+        "name": "bn_l_shin01",
+        "inverseBindPose": [
+          0.03761754036994958,
+          -0.3112989166641513,
+          -0.949567219916653,
+          0,
+          -0.9833513700929383,
+          -0.18058300305661376,
+          0.020245047379430475,
+          0,
+          -0.17777796149370037,
+          0.9329966578132957,
+          -0.31290930461774996,
+          0,
+          15.45134830784232,
+          12.124215269909625,
+          18.504273990569377,
+          1
+        ]
+      },
+      "e2efaf3f808d41508e3be83db435b2c8": {
+        "index": 7,
+        "parentIndex": 0,
+        "name": "bn_l_thigh01",
+        "inverseBindPose": [
+          0.061390039218425965,
+          -0.31153945246510395,
+          -0.9482480860210075,
+          0,
+          -0.9953007797524003,
+          0.052169726187190894,
+          -0.08157620666479044,
+          0,
+          0.07488404976377279,
+          0.948800025941872,
+          -0.30687275842550765,
+          0,
+          29.607807661596173,
+          8.069871953247564,
+          20.45868295573107,
+          1
+        ]
+      },
+      "f918699f16014bcb8b7b6d30cbd370b6": {
+        "index": 15,
+        "parentIndex": -32768,
+        "name": "bn_spD01",
+        "inverseBindPose": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -78.08650448812148,
+          3.595634788537942,
+          1
+        ]
+      },
+      "82b0c0d6735a4604ad7fc6c5e99475e7": {
+        "index": 8,
+        "parentIndex": 7,
+        "name": "bn_l_knee01",
+        "inverseBindPose": [
+          -0.01586720052384277,
+          -0.3131618257962199,
+          -0.9495672186904482,
+          0,
+          -0.9997374433322823,
+          -0.010732369444809783,
+          0.02024501532552411,
+          0,
+          -0.016531072166279956,
+          0.9496391352035133,
+          -0.3129093104127059,
+          0,
+          19.58166549526677,
+          9.32010165947008,
+          18.504274494230707,
+          1
+        ]
+      },
+      "2ffa94f2c4534ef2a2009314c4d77a10": {
+        "index": 27,
+        "parentIndex": 26,
+        "name": "bn_r_wrist01",
+        "inverseBindPose": [
+          0.40835900101180045,
+          0.8341807679159017,
+          -0.37065532875149787,
+          0,
+          0.6416669661364423,
+          -0.5511277499293388,
+          -0.5334057628363962,
+          0,
+          -0.6492352661877645,
+          -0.02001623583647131,
+          -0.7603242199489901,
+          0,
+          -14.543158697761875,
+          81.9333361105962,
+          2.970909607542589,
+          1
+        ]
+      },
+      "fe3c56bc214c45388bc83ad2b418de3b": {
+        "index": 14,
+        "parentIndex": -32768,
+        "name": "bn_spC01",
+        "inverseBindPose": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -62.34724429878567,
+          3.595634788537942,
+          1
+        ]
+      },
+      "57176957cd0a4a0aa4686d725a55b60a": {
+        "index": 25,
+        "parentIndex": -32768,
+        "name": "bn_r_arm01",
+        "inverseBindPose": [
+          0.9516790864729416,
+          -0.002710851954520164,
+          0.30708234669499823,
+          0,
+          0.020401773995990566,
+          -0.9971937753783738,
+          -0.07203014621977238,
+          0,
+          0.30641586771550017,
+          0.0748146083883752,
+          -0.9489531549996829,
+          0,
+          24.293794789655898,
+          102.6511572667362,
+          9.614605625187208,
+          1
+        ]
+      },
+      "33f60d22d6b144ba8e2090107dcc7bc1": {
+        "index": 19,
+        "parentIndex": 16,
+        "name": "bn_r_shld01",
+        "inverseBindPose": [
+          0.3319200405477613,
+          0.9428975583760302,
+          -0.027807932165006054,
+          0,
+          0.9396058142517079,
+          -0.33308286417725086,
+          -0.0787192442536401,
+          0,
+          -0.0834865288963305,
+          5.668882015736967E-16,
+          -0.9965089058773346,
+          0,
+          -92.56666582287072,
+          58.48220194212468,
+          1.3770871619555958,
+          1
+        ]
+      },
+      "ba91019789944199811341310722401a": {
+        "index": 23,
+        "parentIndex": 22,
+        "name": "bn_l_elwbo01",
+        "inverseBindPose": [
+          0.5345284724336233,
+          0.8306355537875204,
+          -0.15596117767533507,
+          0,
+          -0.7318287036444694,
+          0.5472105927831443,
+          0.4061863065983093,
+          0,
+          0.42273639620907133,
+          -0.10298127951244444,
+          0.900382582789198,
+          0,
+          38.227677946121716,
+          -84.02392438031991,
+          -16.025072248343132,
+          1
+        ]
+      },
+      "67217afb13464dd2bbfaf0a6359985df": {
+        "index": 21,
+        "parentIndex": 16,
+        "name": "bn_neck01",
+        "inverseBindPose": [
+          2.5337060208620203E-16,
+          2.8749756601076485E-16,
+          1,
+          0,
+          0.8944271909999155,
+          0.44721359549995854,
+          -3.5519437609907987E-16,
+          0,
+          -0.44721359549995854,
+          0.8944271909999155,
+          -1.438348624333615E-16,
+          0,
+          -96.4256019379986,
+          -42.97312372874364,
+          3.678608129544841E-14,
+          1
+        ]
+      },
+      "2ebcd76aa923434685b7c317618a6a23": {
+        "index": 2,
+        "parentIndex": 1,
+        "name": "bn_r_knee01",
+        "inverseBindPose": [
+          -0.015868787103911913,
+          -0.31315357169953034,
+          -0.9495699142915581,
+          0,
+          0.9997374366685586,
+          0.010730984952371595,
+          -0.020246078270430682,
+          0,
+          0.01652995218478112,
+          -0.949641872757188,
+          0.3129010613388675,
+          0,
+          -19.581684838624657,
+          -9.319910704065865,
+          -18.50432671956783,
+          1
+        ]
+      },
+      "e0cf2b39f9824f7ab4082e25ccd56634": {
+        "index": 22,
+        "parentIndex": -32768,
+        "name": "bn_l_arm01",
+        "inverseBindPose": [
+          0.7515004544699398,
+          0.5839072219290729,
+          0.30708211134897617,
+          0,
+          -0.6301454135508364,
+          0.7731290505377377,
+          0.07202936203702624,
+          0,
+          -0.19535563649999446,
+          -0.2476364823560699,
+          0.9489532906808387,
+          0,
+          44.07152601750043,
+          -95.83957886238879,
+          -9.614546103473952,
+          1
+        ]
+      },
+      "9604937a19604bd2bd9259858185b302": {
+        "index": 0,
+        "parentIndex": -32768,
+        "name": "bn_spA01",
+        "inverseBindPose": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -30.86873459728262,
+          3.595634788537942,
+          1
+        ]
+      },
+      "1eb1eb284de341f79d754a256d17f10b": {
+        "index": 3,
+        "parentIndex": 2,
+        "name": "bn_r_shin01",
+        "inverseBindPose": [
+          0.03761480674284657,
+          -0.31129102439855244,
+          -0.9495699155104896,
+          0,
+          0.9833514636346449,
+          0.18058237453290188,
+          -0.020246110136526572,
+          0,
+          0.17777802249237645,
+          -0.9329994127205861,
+          0.312901055577864,
+          0,
+          -15.451412461371724,
+          -12.124045710838418,
+          -18.504326218855518,
+          1
+        ]
+      },
+      "0e7d155805bb4ae1adf00f7f5f0c4078": {
+        "index": 17,
+        "parentIndex": 16,
+        "name": "bn_l_shld01",
+        "inverseBindPose": [
+          0.3365437883701712,
+          0.9397961668398926,
+          -0.05934175007950088,
+          0,
+          -0.925518551355081,
+          0.341735518775916,
+          0.16319389175011384,
+          0,
+          0.1736481776669304,
+          -9.129168822716789E-18,
+          0.9848077530122082,
+          0,
+          91.52614617234319,
+          -59.32875040469568,
+          -9.684691681622505,
+          1
+        ]
+      },
+      "3de68cb4a93e4d8b99f1e844dbd34ddb": {
+        "index": 11,
+        "parentIndex": 10,
+        "name": "jDrv_l_ball01",
+        "inverseBindPose": [
+          -0.8119109816572976,
+          0.06536667313498021,
+          -99.9966825837533,
+          0,
+          0.6314558607014881,
+          99.99798815265487,
+          0.060240497007979024,
+          0,
+          99.99471018035828,
+          -0.6309458134715642,
+          -0.8123074089362057,
+          0,
+          0.4144546422538723,
+          -0.033488441853896905,
+          21.269964665846036,
+          1
+        ]
+      },
+      "4ffe0a910d404f36bd4db1f81cca5b95": {
+        "index": 20,
+        "parentIndex": 19,
+        "name": "bn_r_shldEnd01",
+        "inverseBindPose": [
+          0.998225801316448,
+          0.004879168334584816,
+          -0.05934175007950012,
+          0,
+          -0.004879168334585481,
+          -0.9865819516957599,
+          -0.16319389175011417,
+          0,
+          -0.05934175007950008,
+          0.16319389175011417,
+          -0.984807753012208,
+          0,
+          25.89269314565466,
+          102.28886207235695,
+          9.297651984092829,
+          1
+        ]
+      },
+      "90e9b03b038240509c124e4c932ef9c8": {
+        "index": 1,
+        "parentIndex": 0,
+        "name": "bn_r_thigh01",
+        "inverseBindPose": [
+          0.06138959090039873,
+          -0.311531170709373,
+          -0.9482508359107997,
+          0,
+          0.9953007436116786,
+          -0.05217138522178739,
+          0.08157558660579269,
+          0,
+          -0.07488489764379061,
+          -0.9488026540016046,
+          0.306864425869783,
+          0,
+          -29.60780343116665,
+          -8.069670734548074,
+          -20.45878182674312,
+          1
+        ]
+      },
+      "01cfb5a97d5840478ba389bac3f72108": {
+        "index": 28,
+        "parentIndex": -32768,
+        "name": "bn_head01",
+        "inverseBindPose": [
+          2.7697466131892267E-16,
+          -2.2385586706338117E-16,
+          -0.9999999999999998,
+          0,
+          0.9777522185362009,
+          0.20976319779107444,
+          2.23855867063381E-16,
+          0,
+          0.20976319779107444,
+          -0.9777522185362009,
+          2.769746613189227E-16,
+          0,
+          -108.18266918515853,
+          -31.545628280141514,
+          -2.1182008663670894E-14,
+          1
+        ]
+      },
+      "c18168139a77427e905f4f5ec24b9316": {
+        "index": 24,
+        "parentIndex": 23,
+        "name": "bn_l_wrist01",
+        "inverseBindPose": [
+          0.4083590010118006,
+          0.8341807628632856,
+          -0.3706553401226958,
+          0,
+          -0.641666966136443,
+          0.5511277572004994,
+          0.5334057553236569,
+          0,
+          0.6492352661877641,
+          0.020016246200888006,
+          0.7603242196761381,
+          0,
+          14.543165692079624,
+          -81.93332840673254,
+          -2.9709150515489138,
+          1
+        ]
+      },
+      "7da25ed2d8414e0aabf7bc5db71ceff0": {
+        "index": 4,
+        "parentIndex": 3,
+        "name": "bn_r_ankle01",
+        "inverseBindPose": [
+          -0.0068633629485161975,
+          -0.00438651037140251,
+          -0.9999668258376366,
+          0,
+          0.5993669815270757,
+          -0.8004741460930326,
+          -0.0006024049739806836,
+          0,
+          -0.8004449485780761,
+          -0.5993512325534935,
+          0.008123074076284795,
+          0,
+          -6.517232416246332,
+          -0.22363771232578766,
+          -21.227593082153827,
+          1
+        ]
+      },
+      "c277a38680fb40eb81cd5d4bace7943b": {
+        "index": 6,
+        "parentIndex": 5,
+        "name": "bn_r_ball01",
+        "inverseBindPose": [
+          -0.00811910981114003,
+          0.0006536667409805748,
+          -0.9999668258375702,
+          0,
+          -0.0063145586075276415,
+          -0.9999798815265389,
+          -0.0006024049797409322,
+          0,
+          -0.9999471018036237,
+          0.006309458135153429,
+          0.008123074083990487,
+          0,
+          -0.41445474957114026,
+          0.03348838426240629,
+          -21.26991871309353,
+          1
+        ]
+      },
+      "1d9a6fcac6cd425fa4edbd6a533ba70a": {
+        "index": 16,
+        "parentIndex": -32768,
+        "name": "bn_spE01",
+        "inverseBindPose": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -93.8257573841915,
+          3.595634788537942,
+          1
+        ]
+      }
+    },
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-08T16:11:11.854556+00:00",
+    "originalLicense": "CC0",
+    "id": "c6681132231a4d4a8144c31c3faec1c0.skeleton"
+  },
+  "34a9cdfde3e64390b411fe24b45fdb66.entity": {
+    "name": "goon_grp",
+    "license": "CC0",
+    "created": "2014-02-27T12:41:53.552000+00:00",
+    "deleted": false,
+    "originalLicense": "CC0",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-09T06:35:11.917799+00:00",
+    "static": false,
+    "components": {
+      "transform": {
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "children": {
+          "9ee1d3570a4b4d4b84d5c03f4ba21c57.entity": {
+            "entityRef": "9ee1d3570a4b4d4b84d5c03f4ba21c57.entity",
+            "sortValue": 1
+          },
+          "c8a740c5fbd348b1a4fa84c7dfd09a0b.entity": {
+            "entityRef": "c8a740c5fbd348b1a4fa84c7dfd09a0b.entity",
+            "sortValue": 0
+          }
+        }
+      }
+    },
+    "hidden": false,
+    "id": "34a9cdfde3e64390b411fe24b45fdb66.entity"
+  },
+  "9a08f4cbf65942858d0d19c6378c92c1.texture": {
+    "wrapS": "Repeat",
+    "minFilter": "Trilinear",
+    "imageRef": "27d63c140ee0f5777daecc07147ff198dc086ed8.jpg",
+    "license": "CC0",
+    "flipY": true,
+    "deleted": false,
+    "originalLicense": "CC0",
+    "magFilter": "Bilinear",
+    "created": "2014-05-08T16:11:11.908616+00:00",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-08T16:11:11.908661+00:00",
+    "matchFileName": "goon_texture.jpg",
+    "repeat": [
+      1,
+      1
+    ],
+    "lodBias": 0,
+    "offset": [
+      0,
+      0
+    ],
+    "id": "9a08f4cbf65942858d0d19c6378c92c1.texture",
+    "wrapT": "Repeat",
+    "anisotropy": 1,
+    "name": "goon_texture"
+  },
+  "423f440c2cb448e6b197e413b8565de1.animation": {
+    "layers": {
+      "67a9f6e68b2747dc95850fd69d58896c.layer": {
+        "name": "Default animation layer",
+        "blendWeight": 1,
+        "sortValue": 0,
+        "states": {
+          "310176dc07dc45c098b37b2fc78896eb.animstate": {
+            "stateRef": "310176dc07dc45c098b37b2fc78896eb.animstate",
+            "sortValue": 0
+          }
+        },
+        "initialStateRef": "310176dc07dc45c098b37b2fc78896eb.animstate",
+        "transitions": {
+          "*": {
+            "type": "Fade",
+            "fadeTime": 0.2
+          },
+          "310176dc07dc45c098b37b2fc78896eb.animstate": {
+            "type": "Frozen",
+            "fadeTime": 0.2
+          }
+        },
+        "id": "67a9f6e68b2747dc95850fd69d58896c.layer"
+      }
+    },
+    "name": "animation_0",
+    "license": "CC0",
+    "created": "2014-02-27T12:41:52.644000+00:00",
+    "deleted": false,
+    "originalLicense": "CC0",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-09T06:36:25.737607+00:00",
+    "id": "423f440c2cb448e6b197e413b8565de1.animation"
+  },
+  "6d16cbafdc7942eb9d79a05b31f69e08.project": {
+    "mainSceneRef": "01406c355e24403b9aace63334fd202c.scene",
+    "name": "Default Goo Project",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:10.115792+00:00",
+    "deleted": false,
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "scenes": {
+      "01406c355e24403b9aace63334fd202c.scene": {
+        "sortValue": 0,
+        "sceneRef": "01406c355e24403b9aace63334fd202c.scene"
+      }
+    },
+    "modified": "2014-05-08T16:11:10.115819+00:00",
+    "id": "6d16cbafdc7942eb9d79a05b31f69e08.project"
+  },
+  "310176dc07dc45c098b37b2fc78896eb.animstate": {
+    "name": "Goon_animation_idle",
+    "license": "CC0",
+    "created": "2014-02-27T12:41:52.793000+00:00",
+    "deleted": false,
+    "originalLicense": "CC0",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-09T06:36:25.791498+00:00",
+    "clipSource": {
+      "clipRef": "c094e39c57624afba539466f1f48cc53.clip",
+      "type": "Clip",
+      "timeScale": 1,
+      "loopCount": -1
+    },
+    "id": "310176dc07dc45c098b37b2fc78896eb.animstate"
+  },
+  "aee2a125b0bd4fe7a0b0233c8631d1ed.entity": {
+    "name": "Goon",
+    "license": "CC0",
+    "created": "2014-02-27T12:41:55.669000+00:00",
+    "deleted": false,
+    "originalLicense": "CC0",
+    "thumbnailRef": "29b32b2124d5b9ca1a2636b3cc30929c330aa4e6.jpg",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-09T06:36:02.357097+00:00",
+    "static": false,
+    "components": {
+      "animation": {
+        "layersRef": "423f440c2cb448e6b197e413b8565de1.animation",
+        "poseRef": "c6681132231a4d4a8144c31c3faec1c0.skeleton"
+      },
+      "transform": {
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "children": {
+          "34a9cdfde3e64390b411fe24b45fdb66.entity": {
+            "entityRef": "34a9cdfde3e64390b411fe24b45fdb66.entity",
+            "sortValue": 0
+          }
+        }
+      }
+    },
+    "hidden": false,
+    "id": "aee2a125b0bd4fe7a0b0233c8631d1ed.entity"
+  },
+  "c8a740c5fbd348b1a4fa84c7dfd09a0b.entity": {
+    "name": "goon_mesh",
+    "license": "CC0",
+    "created": "2014-02-27T12:41:53.562000+00:00",
+    "deleted": false,
+    "originalLicense": "CC0",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-09T06:35:13.219928+00:00",
+    "static": false,
+    "components": {
+      "transform": {
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "meshRenderer": {
+        "reflectable": false,
+        "materials": {
+          "5f3322cc7275433e9960e50092ee7825.material": {
+            "materialRef": "5f3322cc7275433e9960e50092ee7825.material",
+            "sortValue": 0
+          }
+        },
+        "receiveShadows": true,
+        "cullMode": "Dynamic",
+        "castShadows": true
+      },
+      "meshData": {
+        "meshRef": "da3f8bf10cd549268a077e70e8eec5e7.mesh",
+        "poseRef": "c6681132231a4d4a8144c31c3faec1c0.skeleton"
+      }
+    },
+    "hidden": false,
+    "id": "c8a740c5fbd348b1a4fa84c7dfd09a0b.entity"
+  },
+  "01406c355e24403b9aace63334fd202c.scene": {
+    "canvas": {
+      "mode": "Stretch"
+    },
+    "initialCameraRef": "104283851a574b5aa6d2b270aa120001.entity",
+    "name": "Scene",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:27.559Z",
+    "deleted": false,
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-09T06:37:56.821621+00:00",
+    "entities": {
+      "f2fb8b15069745ed9ed00948c8c178cc.entity": {
+        "entityRef": "f2fb8b15069745ed9ed00948c8c178cc.entity",
+        "sortValue": 1
+      },
+      "aee2a125b0bd4fe7a0b0233c8631d1ed.entity": {
+        "entityRef": "aee2a125b0bd4fe7a0b0233c8631d1ed.entity",
+        "sortValue": 2
+      },
+      "104283851a574b5aa6d2b270aa120001.entity": {
+        "entityRef": "104283851a574b5aa6d2b270aa120001.entity",
+        "sortValue": 0
+      }
+    },
+    "id": "01406c355e24403b9aace63334fd202c.scene"
+  },
+  "da3f8bf10cd549268a077e70e8eec5e7.mesh": {
+    "name": "goon_mesh",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:12.603367+00:00",
+    "boundingVolume": {
+      "max": [
+        67.91819763183594,
+        151.98109436035156,
+        31.053955078125
+      ],
+      "type": "BoundingBox",
+      "min": [
+        -67.91819763183594,
+        -2.384185791015625E-7,
+        -29.582029342651367
+      ]
+    },
+    "originalLicense": "CC0",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-08T16:11:12.603413+00:00",
+    "deleted": false,
+    "vertexCount": 2698,
+    "indexModes": [
+      "Triangles"
+    ],
+    "indices": [
+      0,
+      11790,
+      "uint16"
+    ],
+    "attributes": {
+      "NORMAL": {
+        "dimensions": 3,
+        "value": [
+          55956,
+          8094,
+          "float32"
+        ]
+      },
+      "JOINTIDS": {
+        "dimensions": 4,
+        "value": [
+          131500,
+          10792,
+          "uint8"
+        ]
+      },
+      "TEXCOORD0": {
+        "dimensions": 2,
+        "value": [
+          185460,
+          5396,
+          "float32"
+        ]
+      },
+      "TANGENT": {
+        "dimensions": 4,
+        "value": [
+          88332,
+          10792,
+          "float32"
+        ]
+      },
+      "POSITION": {
+        "dimensions": 3,
+        "value": [
+          23580,
+          8094,
+          "float32"
+        ]
+      },
+      "WEIGHTS": {
+        "dimensions": 4,
+        "value": [
+          142292,
+          10792,
+          "float32"
+        ]
+      }
+    },
+    "indexLengths": [
+      11790
+    ],
+    "type": "SkinnedMesh",
+    "id": "da3f8bf10cd549268a077e70e8eec5e7.mesh",
+    "binaryRef": "a08a6baa5f03ac1f288c02f9aa8a484ed4a6be0e.bin"
+  },
+  "168503c72bef4ce28495d91483c2aa0f.material": {
+    "flat": false,
+    "cullState": {
+      "frontFace": "CCW",
+      "enabled": true,
+      "cullFace": "Back"
+    },
+    "uniforms": {
+      "opacity": {
+        "enabled": true,
+        "value": 1
+      },
+      "refractivity": {
+        "enabled": true,
+        "value": 0
+      },
+      "materialAmbient": {
+        "enabled": true,
+        "value": [
+          0.1,
+          0.1,
+          0.1,
+          1
+        ]
+      },
+      "materialSpecular": {
+        "enabled": true,
+        "value": [
+          0.6,
+          0.6,
+          0.6,
+          1
+        ]
+      },
+      "fresnel": {
+        "enabled": true,
+        "value": 0
+      },
+      "vertexColorAmount": {
+        "enabled": true,
+        "value": 1
+      },
+      "materialSpecularPower": {
+        "enabled": true,
+        "value": 64
+      },
+      "materialDiffuse": {
+        "enabled": true,
+        "value": [
+          0.8,
+          0.8,
+          0.8,
+          1
+        ]
+      },
+      "reflectivity": {
+        "enabled": true,
+        "value": 0
+      },
+      "materialEmissive": {
+        "enabled": true,
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "discardThreshold": {
+        "enabled": true,
+        "value": 0.1
+      },
+      "normalMultiplier": {
+        "enabled": true,
+        "value": 1
+      },
+      "etaRatio": {
+        "enabled": true,
+        "value": -0.5
+      }
+    },
+    "name": "Empty Material",
+    "license": "CC0",
+    "created": "2014-05-09T06:36:52.458647+00:00",
+    "deleted": false,
+    "id": "168503c72bef4ce28495d91483c2aa0f.material",
+    "wireframe": false,
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "blendState": {
+      "blendDst": "OneMinusSrcAlphaFactor",
+      "blendSrc": "SrcAlphaFactor",
+      "blendEquation": "AddEquation",
+      "blending": "NoBlending"
+    },
+    "modified": "2014-05-09T06:36:52.458683+00:00",
+    "dualTransparency": false,
+    "depthState": {
+      "write": true,
+      "enabled": true
+    },
+    "shaderRef": "GOO_ENGINE_SHADERS/uber",
+    "texturesMapping": {},
+    "renderQueue": -1
+  },
+  "0e243ba4c32c4609bfdc31187231c8b6.entity": {
+    "name": "globalMove01",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:12.202779+00:00",
+    "deleted": false,
+    "originalLicense": "CC0",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-08T16:11:12.202825+00:00",
+    "static": false,
+    "components": {
+      "transform": {
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "children": {
+          "9db5e1d5e4824b2d9dfabc5c9eb15232.entity": {
+            "entityRef": "9db5e1d5e4824b2d9dfabc5c9eb15232.entity",
+            "sortValue": 0
+          }
+        }
+      }
+    },
+    "hidden": false,
+    "id": "0e243ba4c32c4609bfdc31187231c8b6.entity"
+  },
+  "f2fb8b15069745ed9ed00948c8c178cc.entity": {
+    "name": "Default Lights",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:09.817727+00:00",
+    "deleted": false,
+    "_readOnly": false,
+    "modified": "2014-05-08T16:11:09.817756+00:00",
+    "dataModelVersion": 2,
+    "static": false,
+    "components": {
+      "transform": {
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "children": {
+          "ae1fbff44df54590a58d13fa1f2f81ed.entity": {
+            "entityRef": "ae1fbff44df54590a58d13fa1f2f81ed.entity",
+            "sortValue": 1
+          },
+          "d09c538ff2144277996afa86f116a2bb.entity": {
+            "entityRef": "d09c538ff2144277996afa86f116a2bb.entity",
+            "sortValue": 0
+          }
+        }
+      }
+    },
+    "hidden": false,
+    "id": "f2fb8b15069745ed9ed00948c8c178cc.entity"
+  },
+  "780979ccd88e4a38a1b135fa4401a0d5.script": {
+    "name": "OrbitNPan",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:27.563Z",
+    "deleted": false,
+    "_readOnly": false,
+    "modified": "2014-05-09T06:38:02.927899+00:00",
+    "dataModelVersion": 2,
+    "className": "OrbitNPanControlScript",
+    "id": "780979ccd88e4a38a1b135fa4401a0d5.script",
+    "options": {
+      "spherical": [
+        500,
+        51.17098837488639,
+        23.645935614118432
+      ],
+      "maxAscent": 89.95,
+      "lookAtPoint": [
+        0,
+        0.7599054574966431,
+        0.007359623908996582
+      ],
+      "clampAzimuth": false,
+      "maxAzimuth": 270,
+      "orbitSpeed": 0.005,
+      "whenUsed": true,
+      "enabled": true,
+      "minAzimuth": 90,
+      "minAscent": -89,
+      "maxZoomDistance": 1000,
+      "drag": 0.9,
+      "dragButton": "Left",
+      "panSpeed": 0.005,
+      "panButton": "Right",
+      "screenMove": false,
+      "zoomSpeed": 1,
+      "minZoomDistance": 1,
+      "smoothness": 0.4
+    }
+  },
+  "104283851a574b5aa6d2b270aa120001.entity": {
+    "name": "Default Camera",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:27.563Z",
+    "deleted": false,
+    "_readOnly": false,
+    "modified": "2014-05-09T06:38:02.981697+00:00",
+    "dataModelVersion": 2,
+    "static": false,
+    "components": {
+      "camera": {
+        "fov": 45,
+        "lockedRatio": false,
+        "far": 1000,
+        "followEditorCam": true,
+        "projectionMode": "Perspective",
+        "near": 1,
+        "aspect": 1,
+        "size": 100
+      },
+      "transform": {
+        "translation": [
+          3.0052976608276367,
+          2.8585596084594727,
+          3.7413225173950195
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          -23.645935614118432,
+          38.82901162511361,
+          0
+        ]
+      },
+      "script": {
+        "scripts": {
+          "780979ccd88e4a38a1b135fa4401a0d5.script": {
+            "scriptRef": "780979ccd88e4a38a1b135fa4401a0d5.script",
+            "sortValue": 0
+          }
+        }
+      }
+    },
+    "hidden": true,
+    "id": "104283851a574b5aa6d2b270aa120001.entity"
+  },
+  "9db5e1d5e4824b2d9dfabc5c9eb15232.entity": {
+    "name": "joints01",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:12.810546+00:00",
+    "deleted": false,
+    "originalLicense": "CC0",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-08T16:11:12.810593+00:00",
+    "static": false,
+    "components": {
+      "transform": {
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    "hidden": false,
+    "id": "9db5e1d5e4824b2d9dfabc5c9eb15232.entity"
+  },
+  "c094e39c57624afba539466f1f48cc53.clip": {
+    "name": "Goon_animation_idle",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:12.142843+00:00",
+    "deleted": false,
+    "originalLicense": "CC0",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-08T16:11:12.142899+00:00",
+    "channels": {
+      "04bb60b16ee94698aa4bfc364e836e14": {
+        "name": "bn_r_wrist01",
+        "translationSamples": [
+          90240,
+          240,
+          "float32"
+        ],
+        "times": [
+          91200,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          88000,
+          320,
+          "float32"
+        ],
+        "jointIndex": 27,
+        "scaleSamples": [
+          89280,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "573163e58418441b84cc8f15379e72f0": {
+        "name": "bn_neck01",
+        "translationSamples": [
+          69120,
+          240,
+          "float32"
+        ],
+        "times": [
+          70080,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          66880,
+          320,
+          "float32"
+        ],
+        "jointIndex": 21,
+        "scaleSamples": [
+          68160,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "e67b3b18792a40c18938ca81b96221ca": {
+        "name": "bn_r_arm01",
+        "translationSamples": [
+          83200,
+          240,
+          "float32"
+        ],
+        "times": [
+          84160,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          80960,
+          320,
+          "float32"
+        ],
+        "jointIndex": 25,
+        "scaleSamples": [
+          82240,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "291d39ce364a4056af289c25041b81e5": {
+        "name": "bn_l_shin01",
+        "translationSamples": [
+          33920,
+          240,
+          "float32"
+        ],
+        "times": [
+          34880,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          31680,
+          320,
+          "float32"
+        ],
+        "jointIndex": 9,
+        "scaleSamples": [
+          32960,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "a65b61d77704439e99f77c17462de2ef": {
+        "name": "bn_r_ball01",
+        "translationSamples": [
+          23360,
+          240,
+          "float32"
+        ],
+        "times": [
+          24320,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          21120,
+          320,
+          "float32"
+        ],
+        "jointIndex": 6,
+        "scaleSamples": [
+          22400,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "b571c35e9aed40618fc93af5cf64617d": {
+        "name": "bn_l_thigh01",
+        "translationSamples": [
+          26880,
+          240,
+          "float32"
+        ],
+        "times": [
+          27840,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          24640,
+          320,
+          "float32"
+        ],
+        "jointIndex": 7,
+        "scaleSamples": [
+          25920,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "c6f8a8a3465640e6b3993cc2032f260b": {
+        "name": "bn_l_arm01",
+        "translationSamples": [
+          72640,
+          240,
+          "float32"
+        ],
+        "times": [
+          73600,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          70400,
+          320,
+          "float32"
+        ],
+        "jointIndex": 22,
+        "scaleSamples": [
+          71680,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "8c7a22bed07f436986896431195ff31d": {
+        "name": "bn_r_knee01",
+        "translationSamples": [
+          9280,
+          240,
+          "float32"
+        ],
+        "times": [
+          10240,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          7040,
+          320,
+          "float32"
+        ],
+        "jointIndex": 2,
+        "scaleSamples": [
+          8320,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "e03eda13416e40febb1ab6ddc6749a46": {
+        "name": "bn_head01",
+        "translationSamples": [
+          93760,
+          240,
+          "float32"
+        ],
+        "times": [
+          94720,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          91520,
+          320,
+          "float32"
+        ],
+        "jointIndex": 28,
+        "scaleSamples": [
+          92800,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "cf82a053b514468cbb3d00b17c2ec013": {
+        "name": "bn_r_shld01",
+        "translationSamples": [
+          65600,
+          240,
+          "float32"
+        ],
+        "times": [
+          66560,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          63360,
+          320,
+          "float32"
+        ],
+        "jointIndex": 19,
+        "scaleSamples": [
+          64640,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "05fbec0ff30f41a488e533f4c7ba0575": {
+        "name": "bn_l_shld01",
+        "translationSamples": [
+          62080,
+          240,
+          "float32"
+        ],
+        "times": [
+          63040,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          59840,
+          320,
+          "float32"
+        ],
+        "jointIndex": 17,
+        "scaleSamples": [
+          61120,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "25d952b841a94651975d9e646199c569": {
+        "name": "bn_spB01",
+        "translationSamples": [
+          48000,
+          240,
+          "float32"
+        ],
+        "times": [
+          48960,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          45760,
+          320,
+          "float32"
+        ],
+        "jointIndex": 13,
+        "scaleSamples": [
+          47040,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "70467f47879d4a18817b511f0a146690": {
+        "name": "bn_spC01",
+        "translationSamples": [
+          51520,
+          240,
+          "float32"
+        ],
+        "times": [
+          52480,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          49280,
+          320,
+          "float32"
+        ],
+        "jointIndex": 14,
+        "scaleSamples": [
+          50560,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "69f76d5fbfd4439197ba5395644c346c": {
+        "name": "bn_l_wrist01",
+        "translationSamples": [
+          79680,
+          240,
+          "float32"
+        ],
+        "times": [
+          80640,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          77440,
+          320,
+          "float32"
+        ],
+        "jointIndex": 24,
+        "scaleSamples": [
+          78720,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "537bfdcfa27c4c888f020089bf132627": {
+        "name": "bn_r_shin01",
+        "translationSamples": [
+          12800,
+          240,
+          "float32"
+        ],
+        "times": [
+          13760,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          10560,
+          320,
+          "float32"
+        ],
+        "jointIndex": 3,
+        "scaleSamples": [
+          11840,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "e0cfc352daa047cbb1f9e3515802362f": {
+        "name": "bn_l_ankle01",
+        "translationSamples": [
+          37440,
+          240,
+          "float32"
+        ],
+        "times": [
+          38400,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          35200,
+          320,
+          "float32"
+        ],
+        "jointIndex": 10,
+        "scaleSamples": [
+          36480,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "a5fc2886d6ee4a7d8859fd140ae5b388": {
+        "name": "bn_r_ankle01",
+        "translationSamples": [
+          16320,
+          240,
+          "float32"
+        ],
+        "times": [
+          17280,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          14080,
+          320,
+          "float32"
+        ],
+        "jointIndex": 4,
+        "scaleSamples": [
+          15360,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "486f5edaa97146ddb0e7cfeda681afc4": {
+        "name": "bn_r_elwbo01",
+        "translationSamples": [
+          86720,
+          240,
+          "float32"
+        ],
+        "times": [
+          87680,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          84480,
+          320,
+          "float32"
+        ],
+        "jointIndex": 26,
+        "scaleSamples": [
+          85760,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "92002a95c0bf4ebebe63fbaeda77a746": {
+        "name": "bn_r_thigh01",
+        "translationSamples": [
+          5760,
+          240,
+          "float32"
+        ],
+        "times": [
+          6720,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          3520,
+          320,
+          "float32"
+        ],
+        "jointIndex": 1,
+        "scaleSamples": [
+          4800,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "bcdd14539af54d9586ff74d1b3e61cc3": {
+        "name": "bn_spA01",
+        "translationSamples": [
+          2240,
+          240,
+          "float32"
+        ],
+        "times": [
+          3200,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          0,
+          320,
+          "float32"
+        ],
+        "jointIndex": 0,
+        "scaleSamples": [
+          1280,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "d00288712c8540ccb32735b047eaf1b7": {
+        "name": "bn_l_ball01",
+        "translationSamples": [
+          44480,
+          240,
+          "float32"
+        ],
+        "times": [
+          45440,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          42240,
+          320,
+          "float32"
+        ],
+        "jointIndex": 12,
+        "scaleSamples": [
+          43520,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "8dcdd43f888c4a96a7d879478298f372": {
+        "name": "bn_l_knee01",
+        "translationSamples": [
+          30400,
+          240,
+          "float32"
+        ],
+        "times": [
+          31360,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          28160,
+          320,
+          "float32"
+        ],
+        "jointIndex": 8,
+        "scaleSamples": [
+          29440,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "4a57124ad2834d4cb445fa4692da01ce": {
+        "name": "bn_l_elwbo01",
+        "translationSamples": [
+          76160,
+          240,
+          "float32"
+        ],
+        "times": [
+          77120,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          73920,
+          320,
+          "float32"
+        ],
+        "jointIndex": 23,
+        "scaleSamples": [
+          75200,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "59aefedf58214bd9b60cf23896142ec7": {
+        "name": "bn_spE01",
+        "translationSamples": [
+          58560,
+          240,
+          "float32"
+        ],
+        "times": [
+          59520,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          56320,
+          320,
+          "float32"
+        ],
+        "jointIndex": 16,
+        "scaleSamples": [
+          57600,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "d0344e7790d841b89b99d2e2eb281e5c": {
+        "name": "bn_spD01",
+        "translationSamples": [
+          55040,
+          240,
+          "float32"
+        ],
+        "times": [
+          56000,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          52800,
+          320,
+          "float32"
+        ],
+        "jointIndex": 15,
+        "scaleSamples": [
+          54080,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "b7013cd19b304ac98128df7dbc785187": {
+        "name": "jDrv_l_ball01",
+        "translationSamples": [
+          40960,
+          240,
+          "float32"
+        ],
+        "times": [
+          41920,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          38720,
+          320,
+          "float32"
+        ],
+        "jointIndex": 11,
+        "scaleSamples": [
+          40000,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      },
+      "11bda86146b048fdb61502a850285534": {
+        "name": "jDrv_r_ball01",
+        "translationSamples": [
+          19840,
+          240,
+          "float32"
+        ],
+        "times": [
+          20800,
+          80,
+          "float32"
+        ],
+        "rotationSamples": [
+          17600,
+          320,
+          "float32"
+        ],
+        "jointIndex": 5,
+        "scaleSamples": [
+          18880,
+          240,
+          "float32"
+        ],
+        "blendType": "Linear",
+        "type": "Joint"
+      }
+    },
+    "id": "c094e39c57624afba539466f1f48cc53.clip",
+    "binaryRef": "8b1a49b89b1399bd6583b30ba6271c4f65ee29c5.bin"
+  },
+  "d09c538ff2144277996afa86f116a2bb.entity": {
+    "name": "Directional 0",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:10.167373+00:00",
+    "deleted": false,
+    "_readOnly": false,
+    "modified": "2014-05-08T16:11:10.167402+00:00",
+    "dataModelVersion": 2,
+    "static": false,
+    "components": {
+      "light": {
+        "direction": [
+          0,
+          0,
+          0
+        ],
+        "shadowCaster": false,
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "intensity": 0.8,
+        "range": 60,
+        "specularIntensity": 1,
+        "penumbra": 5,
+        "angle": 30,
+        "type": "DirectionalLight",
+        "shadowSettings": {
+          "fov": 55,
+          "darkness": 1,
+          "far": 60,
+          "near": 1,
+          "resolution": [
+            256,
+            256
+          ],
+          "shadowType": "Basic",
+          "size": 100
+        }
+      },
+      "transform": {
+        "translation": [
+          16,
+          20.5,
+          23.3
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          -38,
+          21,
+          -18
+        ]
+      }
+    },
+    "hidden": false,
+    "id": "d09c538ff2144277996afa86f116a2bb.entity"
+  },
+  "9ee1d3570a4b4d4b84d5c03f4ba21c57.entity": {
+    "name": "charNode01",
+    "license": "CC0",
+    "created": "2014-02-27T12:41:54.069000+00:00",
+    "deleted": false,
+    "originalLicense": "CC0",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-09T06:35:11.968097+00:00",
+    "static": false,
+    "components": {
+      "transform": {
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "children": {
+          "0e243ba4c32c4609bfdc31187231c8b6.entity": {
+            "entityRef": "0e243ba4c32c4609bfdc31187231c8b6.entity",
+            "sortValue": 0
+          }
+        }
+      }
+    },
+    "hidden": false,
+    "id": "9ee1d3570a4b4d4b84d5c03f4ba21c57.entity"
+  },
+  "ae1fbff44df54590a58d13fa1f2f81ed.entity": {
+    "name": "Directional 1",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:10.264470+00:00",
+    "deleted": false,
+    "_readOnly": false,
+    "modified": "2014-05-08T16:11:10.264500+00:00",
+    "dataModelVersion": 2,
+    "static": false,
+    "components": {
+      "light": {
+        "direction": [
+          0,
+          0,
+          0
+        ],
+        "shadowCaster": false,
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "intensity": 0.4,
+        "range": 60,
+        "specularIntensity": 1,
+        "penumbra": 5,
+        "angle": 30,
+        "type": "DirectionalLight",
+        "shadowSettings": {
+          "fov": 55,
+          "darkness": 1,
+          "far": 60,
+          "near": 1,
+          "resolution": [
+            256,
+            256
+          ],
+          "shadowType": "Basic",
+          "size": 100
+        }
+      },
+      "transform": {
+        "translation": [
+          15,
+          11.6,
+          -12.2
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          -31,
+          129,
+          0
+        ]
+      }
+    },
+    "hidden": false,
+    "id": "ae1fbff44df54590a58d13fa1f2f81ed.entity"
+  },
+  "12c4d2231c5945fda9a1bee34299f8cc.texture": {
+    "wrapS": "Repeat",
+    "minFilter": "Trilinear",
+    "imageRef": "d7968aa0b348df54ba9b461874f1501b66f77109.jpg",
+    "license": "CC0",
+    "flipY": true,
+    "deleted": false,
+    "originalLicense": "CC0",
+    "magFilter": "Bilinear",
+    "created": "2014-05-08T16:11:12.914655+00:00",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-08T16:11:12.914708+00:00",
+    "matchFileName": "goon_specular.jpg",
+    "repeat": [
+      1,
+      1
+    ],
+    "lodBias": 0,
+    "offset": [
+      0,
+      0
+    ],
+    "id": "12c4d2231c5945fda9a1bee34299f8cc.texture",
+    "wrapT": "Repeat",
+    "anisotropy": 1,
+    "name": "goon_specular"
+  },
+  "1c2fdb7788764854a56f1b777d74ab56.texture": {
+    "wrapS": "Repeat",
+    "minFilter": "Trilinear",
+    "imageRef": "4008374269388f5f2ebd4296261fabd1b13a0a56.jpg",
+    "license": "CC0",
+    "flipY": true,
+    "deleted": false,
+    "originalLicense": "CC0",
+    "magFilter": "Bilinear",
+    "created": "2014-05-08T16:11:12.966564+00:00",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-08T16:11:12.966614+00:00",
+    "matchFileName": "goon_normal.jpg",
+    "repeat": [
+      1,
+      1
+    ],
+    "lodBias": 0,
+    "offset": [
+      0,
+      0
+    ],
+    "id": "1c2fdb7788764854a56f1b777d74ab56.texture",
+    "wrapT": "Repeat",
+    "anisotropy": 1,
+    "name": "goon_normal"
+  },
+  "1e1885a492454d7ab74c98ba1a42be7a.texture": {
+    "wrapS": "Repeat",
+    "minFilter": "Trilinear",
+    "imageRef": "34111bd3dbddb6756fdc1da0e11796898dc81102.jpg",
+    "license": "CC0",
+    "flipY": true,
+    "deleted": false,
+    "originalLicense": "CC0",
+    "magFilter": "Bilinear",
+    "created": "2014-05-08T16:11:12.454608+00:00",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-08T16:11:12.454692+00:00",
+    "matchFileName": "goon_reflection.jpg",
+    "repeat": [
+      1,
+      1
+    ],
+    "lodBias": 0,
+    "offset": [
+      0,
+      0
+    ],
+    "id": "1e1885a492454d7ab74c98ba1a42be7a.texture",
+    "wrapT": "Repeat",
+    "anisotropy": 1,
+    "name": "goon_reflection"
+  },
+  "5f3322cc7275433e9960e50092ee7825.material": {
+    "texturesMapping": {
+      "SPECULAR_MAP": {
+        "enabled": true,
+        "textureRef": "12c4d2231c5945fda9a1bee34299f8cc.texture"
+      },
+      "DIFFUSE_MAP": {
+        "enabled": true,
+        "textureRef": "9a08f4cbf65942858d0d19c6378c92c1.texture"
+      },
+      "NORMAL_MAP": {
+        "enabled": true,
+        "textureRef": "1c2fdb7788764854a56f1b777d74ab56.texture"
+      },
+      "REFLECTION_MAP": {
+        "enabled": true,
+        "textureRef": "1e1885a492454d7ab74c98ba1a42be7a.texture"
+      },
+      "EMISSIVE_MAP": {
+        "enabled": true,
+        "textureRef": "56aa7ad816a144b6853ce5c23d201e81.texture"
+      }
+    },
+    "flat": false,
+    "cullState": {
+      "frontFace": "CCW",
+      "enabled": true,
+      "cullFace": "Back"
+    },
+    "uniforms": {
+      "opacity": {
+        "enabled": true,
+        "value": 1
+      },
+      "refractivity": {
+        "enabled": true,
+        "value": 0
+      },
+      "materialAmbient": {
+        "enabled": true,
+        "value": [
+          0.31818181818181823,
+          0.31818181818181823,
+          0.31818181818181823,
+          1
+        ]
+      },
+      "materialSpecular": {
+        "enabled": true,
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "fresnel": {
+        "enabled": true,
+        "value": 0.21
+      },
+      "vertexColorAmount": {
+        "enabled": true,
+        "value": 1
+      },
+      "materialSpecularPower": {
+        "enabled": true,
+        "value": 69
+      },
+      "materialDiffuse": {
+        "enabled": true,
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "reflectivity": {
+        "enabled": true,
+        "value": 0.42
+      },
+      "materialEmissive": {
+        "enabled": true,
+        "value": [
+          0.990909090909091,
+          1,
+          0.9923636363636363,
+          1
+        ]
+      },
+      "discardThreshold": {
+        "enabled": false,
+        "value": 0
+      },
+      "normalMultiplier": {
+        "enabled": true,
+        "value": 1.01
+      },
+      "etaRatio": {
+        "enabled": true,
+        "value": -0.5
+      }
+    },
+    "name": "goon_material",
+    "license": "CC0",
+    "created": "2014-05-08T16:11:13.021267+00:00",
+    "deleted": false,
+    "wireframe": false,
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "blendState": {
+      "blendDst": "OneMinusSrcAlphaFactor",
+      "blendSrc": "SrcAlphaFactor",
+      "blendEquation": "AddEquation",
+      "blending": "NoBlending"
+    },
+    "originalLicense": "CC0",
+    "dualTransparency": false,
+    "modified": "2014-05-08T16:11:13.021313+00:00",
+    "depthState": {
+      "write": true,
+      "enabled": true
+    },
+    "shaderRef": "GOO_ENGINE_SHADERS/uber",
+    "id": "5f3322cc7275433e9960e50092ee7825.material",
+    "renderQueue": 1000
+  },
+  "56aa7ad816a144b6853ce5c23d201e81.texture": {
+    "wrapS": "Repeat",
+    "minFilter": "Trilinear",
+    "imageRef": "6b6127e8732fc8fbd6e61a4a5a63537013e7bd0a.jpg",
+    "license": "CC0",
+    "flipY": true,
+    "deleted": false,
+    "originalLicense": "CC0",
+    "magFilter": "Bilinear",
+    "created": "2014-05-08T16:11:12.858363+00:00",
+    "_readOnly": false,
+    "dataModelVersion": 2,
+    "modified": "2014-05-08T16:11:12.858405+00:00",
+    "matchFileName": "goon_bind/images/goon_glow.jpg",
+    "repeat": [
+      1,
+      1
+    ],
+    "lodBias": 0,
+    "offset": [
+      0,
+      0
+    ],
+    "id": "56aa7ad816a144b6853ce5c23d201e81.texture",
+    "wrapT": "Repeat",
+    "anisotropy": 1,
+    "name": "goon_glow"
+  }
+}
